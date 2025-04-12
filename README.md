@@ -3,6 +3,10 @@
 Esté é uma aplicativo desenvolvido com **Vue 3**, **TypeScript** e **Vite** .
 O projeto utiliza **Pinia** para o gerenciamento de estado, **Vuetify** para estilo e foi feita a intalação do **Axios** para requisições porém o aplicativo está consultando e armazenando os dados na localStorage. Além disso, é utilizado o vitest para o desenvolvimento de testes unitários
 
+## Acesse em:
+
+**https://gerenciador-projeto-frontend.vercel.app/**
+
 ---
 
 ## Funcionalidades
