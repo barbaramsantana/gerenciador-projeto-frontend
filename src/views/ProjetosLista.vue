@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted, ref, watch } from "vue";
+import { computed, onMounted, ref } from "vue";
 import { useGerenciarProjetos } from "../services";
 import type { IProjeto } from "../@core/services/gerenciaProjetos/interfaces/IGerenciarProjetos";
 import ProjetoCard from "../components/ProjetoCard.vue";

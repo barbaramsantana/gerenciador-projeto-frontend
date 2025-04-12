@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, watch, type Ref } from "vue";
+import { ref, watch } from "vue";
 import logo from "@/assets/images/logo.svg";
 import { VAppBar } from "vuetify/components";
 import useFormProjeto from "../store/formProjeto";

@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import WizardProjetos from "./pages/WizardProjetos.vue";
-import LayoutHeader from "./components/LayoutHeader.vue";
 
 </script>
 
